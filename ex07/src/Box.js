@@ -3,8 +3,9 @@
 import React from 'react';
 
 const Box = () => {
-    return <h2>This is a Box Component!</h2>;
-
+    return (
+        <h2>This is a Box Component!</h2>
+    )
 };
 
 
